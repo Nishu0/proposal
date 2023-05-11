@@ -137,16 +137,6 @@ In this phase, I will update the documentation on the new Docusaurus-based site 
 - Week 9-10: Review and Feedback Phase
 In this final phase, I will incorporate feedback from mentors and the community, making revisions where necessary. I will also perform final reviews of the documentation and ensure that everything is up to date before submitting the final deliverables.
 
-
-### Proposed Budget 
-
-I propose a budget of $6,000  for the entire project, which includes three months of work at $2,000 per month. The budget will cover my time and expenses for the entire project, including research, documentation creation, and communication with mentors and the community. The budget also includes revisions and review phases, ensuring that the final deliverables are of high quality. In  case there is a need for reduced or increased scope, 
-
-I propose the following options: 
-
-- Reduced Scope: Documentation for C SDK and Rust SDK only: $4,000
-- Increased Scope: Documentation for more programming languages, including Go and Python: $8,000 
-
 ### Conclusion 
 
 I believe that the proposed project will benefit the WasmEdge community by making it easier for  new contributors to develop plug-ins and add features to the project. The documentation created as part of this project will be a valuable resource for the community and will enable the growth of WasmEdge's plugin ecosystem. I have the necessary technical writing skills and experience to undertake this project successfully and make it a success. I look forward to working with the WasmEdge organization and contributing to the success of the project.
